@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            TikTok Live Guest MT
+// @name            TikTok Live Guest
 // @version         1.0
 // @description     View TikTok Live without Login
 // @icon            https://www.tiktok.com/favicon.ico
@@ -9,8 +9,8 @@
 // @match           https://www.tiktok.com/*
 // @require         https://unpkg.com/mpegts.js@1.7.3/dist/mpegts.js
 // @grant           none
-// @downloadURL NONE
-// @updateURL NONE
+// @downloadURL https://github.com/JustaTama/TikTok-Live-Guest-MT/raw/refs/heads/main/script.user.js
+// @updateURL https://github.com/JustaTama/TikTok-Live-Guest-MT/raw/refs/heads/main/script.user.js
 // ==/UserScript==
 
 (async () => {
