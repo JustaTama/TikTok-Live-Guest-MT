@@ -13,7 +13,6 @@
 // @updateURL NONE
 // ==/UserScript==
 
-// 24/7 Stream: https://www.tiktok.com/@livehaf.official/live
 (async () => {
     let player;
 
